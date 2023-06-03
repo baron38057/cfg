@@ -1,0 +1,15 @@
+bind "KP_INS" "mp_drop_knife_enable 1"
+bind "KP_END" "give weapon_knife_karambit"
+bind "KP_DOWNARROW" "give weapon_knife_widowmaker"
+bind "KP_PGDN" "give weapon_knife_gut"
+bind "KP_LEFTARROW" "give weapon_knife_butterfly"
+bind "KP_5" "give weapon_knife_tactical"
+bind "KP_RIGHTARROW" "give weapon_knife_push"
+bind "KP_HOME" "give weapon_bayonet"
+bind "KP_UPARROW" "give weapon_knife_m9_bayonet"
+bind "KP_PGUP" "give weapon_knife_survival_bowie"
+bind "f3" "say ent_fire weapon_knife addoutput "classname weapon_knifegg" "
+
+//to use this cfg type in console "sv cheats 1", and "exec knifes", after that press numpad zero and numpad 1, 2, 3 , 4, 5, 6 , 7, 8 or 9 type next command in console:
+//ent_fire weapon_knife addoutput "classname weapon_knifegg" 
+//drop yout knife on "g", and pick up new 
